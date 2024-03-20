@@ -1,0 +1,24 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-MathiasAdmApplication<MathiasAdm>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.easyapp.mathias.adm.mathias.MathiasAdmApplication",
+            "projectName": "MathiasAdm",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-MathiasAdmApplication<MathiasAdm>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.easyapp.mathias.adm.mathias.MathiasAdmApplication",
+            "projectName": "MathiasAdm",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
